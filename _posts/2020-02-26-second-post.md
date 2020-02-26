@@ -1,6 +1,8 @@
 ---
 title:  "MARKDOWN 문법 살펴보기"
 excerpt: "MARKDOWN 문법을 알아보자"
+toc: true
+toc_sticky: true
 
 categories:
   - Blog
