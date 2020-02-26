@@ -28,7 +28,7 @@ __double underscores__
 ___triple underscores___
 
 
-글자크기 조정은 "#"
+글머리달기  "#"
 
 # 한개
 
@@ -42,7 +42,7 @@ ___triple underscores___
 
 ###### 여섯개
 
-중간에 넣는거도 되나? # 이렇게 
+중간에 넣는거도 되나? # 이렇게  
 안되네
 
 수평선
@@ -50,15 +50,15 @@ ___triple underscores___
 
 >인용선
 >>이렇게 하면
->>>어떻게 되지?
->>다시 이렇게
->이렇게
+>>>어떻게 되지?    
+>>다시 이렇게   
+>이렇게  
 
 
 수평선
 * * *
 
-링크를 한번 넣어볼까 
+링크를 한번 넣어볼까   
 [Google 페이지](https://google.com)
 
 직접  
@@ -68,9 +68,9 @@ ___triple underscores___
 ----
 
 이미지 삽입
-![](/assets/images/IMG_20191221_210758.jpg)
+![](/assets/images/80.png)
 
-![](/assets/images/IMG_20191221_210758.jpg){: .align-center}
+![](/assets/images/80.png){: .align-center}
 
 ![봄이 사진](/assets/images/IMG_20191221_210758.jpg "우리 봄이 사진"){: .align-center}
 
