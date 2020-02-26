@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2020-02-26T14:42
+last_modified_at: 2020-02-26T16:02
 ---
 
 
@@ -67,11 +67,13 @@ ___triple underscores___
 수평선
 ----
 
-이미지 삽입
+이미지 삽입  
 ![](/assets/images/80.png)
 
+가운데  
 ![](/assets/images/80.png){: .align-center}
 
+봄이  
 ![봄이 사진](/assets/images/IMG_20191221_210758.jpg "우리 봄이 사진"){: .align-center}
 
 여기까지..
