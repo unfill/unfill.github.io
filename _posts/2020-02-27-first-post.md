@@ -1,7 +1,5 @@
 ---
 
-layout: post
-
 title: "Pro Git 공부 정리"
 expert: "Pro Git 간단히 정리하기"
 
