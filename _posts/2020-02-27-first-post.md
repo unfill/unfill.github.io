@@ -1,16 +1,14 @@
 ---
 
-layout: post
-
 title: "Pro Git 공부 정리"
 expert: "Pro Git 간단히 정리하기"
 
 categories:
-   -Git
+   - Git
 
 tags:
-   -Git
-   -Github
+   - Git
+   - Github
 
 date: 2020-02-27 11:18
 
